@@ -1,6 +1,4 @@
-# 🛒 ShopMart – React E-commerce App
 
-Built on **Day 57 of #100DaysOfCode**, with help from my teaching fellow **Joshua Doe** who assisted with the cart logic, order placement, and search functionality 🙌
 
 ---
 
@@ -22,6 +20,9 @@ Built on **Day 57 of #100DaysOfCode**, with help from my teaching fellow **Joshu
 - Tailwind CSS (if used)
 
 ---
+## Live Link
+shop-mart-main.vercel.app
+hosted on vercel
 
 ## 🚀 Getting Started
 
