@@ -20,7 +20,7 @@ import lightning3 from '../assets/lightning3.jpg';
 import decore1 from '../assets/decore1.jpg';
 import decore2 from '../assets/decore2.jpg';
 import decore3 from '../assets/decore3.jpg';
-import Leather from '../assets/leather.jpg';
+import Leather from '../assets/Leather.jpg';
 import desk from '../assets/desk.jpg';
 
 const Details = () => {
